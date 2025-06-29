@@ -13,11 +13,11 @@ This project aims to illustrate the fundamental steps involved in performing a s
 
 ## Files in This Repository
 
-* `Untitled5.ipynb`: A Jupyter Notebook containing the Python code for data generation, initial data inspection, and visualization. This notebook serves as the core script for the project.
+* `SimpleLinearRegression.ipynb`: A Jupyter Notebook containing the Python code for data generation, initial data inspection, and visualization. This notebook serves as the core script for the project.
 
 ## Project Structure
 
-The current notebook, `Untitled5.ipynb`, covers the following initial steps:
+The current notebook, `SimpleLinearRegression.ipynb`, covers the following initial steps:
 
 ### 1. Importing Libraries
 The project begins by importing necessary libraries for data manipulation, numerical operations, visualization, and machine learning:
@@ -55,7 +55,7 @@ To run this project, you will need a Python environment with Jupyter Notebook in
     ```
 3.  **Open the Jupyter Notebook:**
     ```bash
-    jupyter notebook Untitled5.ipynb
+    jupyter notebook SimpleLinearRegression.ipynb
     ```
 4.  **Run the cells:**
     Once the notebook is open in your browser, you can run each cell sequentially to see the data creation and visualization.
